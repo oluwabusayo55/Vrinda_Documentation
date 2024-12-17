@@ -16,16 +16,17 @@ The primary source of data used is Vrinda Store.csv and this is an open source d
     
 - Github for Portfolio Building
 
-### Data Cleaning and Preparation
-In the intial phase of data cleaning and preparation, i performed the following actions;
+### Data Cleaning and Processing
+In the intial phase of data cleaning and pprocessing, i performed the following actions;
 - Data loading and Inspection
 - Handling missing values
-- Data formatting
-
-### Exploratory Data Analysis
-EDA involve the exploring of data to answer some questions, such as;
-- What is the Sales and Orders trend?
-- Who purchased more in terms of Gender?
-- Who are the Top Sellers?
+- Data cleaning and formatting
+- Creation of new columns for aggregation
 
 ### Data Analysis
+In this phase, i focused on summarizing the cleaned and processed data to identify trends, patterns and key insights. The analysis aimed at finding Monthly Sales Trends, top- performing States and Sales based on Gender. I used pivot tables to summarise sales by Category, sales by Order Status, sales by Channel and the correlation between Age group and Gender to evaluate performance. Key Insights derived include;
+ - Women accounted for 64% of Sales making it top-performing Gender
+ - Identified product category(set) as the best performing Product
+ - March is the month that generated the highest sales.
+
+### Data Visualization
