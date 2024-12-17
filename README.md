@@ -15,3 +15,17 @@ The primary source of data used is Vrinda Store.csv and this is an open source d
    - For Visualization
     
 - Github for Portfolio Building
+
+### Data Cleaning and Preparation
+In the intial phase of data cleaning and preparation, i performed the following actions;
+- Data loading and Inspection
+- Handling missing values
+- Data formatting
+
+### Exploratory Data Analysis
+EDA involve the exploring of data to answer some questions, such as;
+- What is the Sales and Orders trend?
+- Who purchased more in terms of Gender?
+- Who are the Top Sellers?
+
+### Data Analysis
