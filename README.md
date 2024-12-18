@@ -30,3 +30,8 @@ In this phase, i focused on summarizing the cleaned and processed data to identi
  - March is the month that generated the highest sales.
 
 ### Data Visualization
+In this phase, i created visuals of the data to make trends and insights easily interpretable. These visuals were designed to provide a clear view of sales and orders performance, product contributions and region trends.
+
+[View Dashboard Here](Dashboard!A1)
+
+
