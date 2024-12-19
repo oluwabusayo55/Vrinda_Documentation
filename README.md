@@ -1,6 +1,6 @@
 # Vrinda_Documentation
 
-### Project Title: Vrinda Sales Report For 2022
+### Project Title: Vrinda Sales Analysis For 2022
 
 ### Project Overview
 ---
