@@ -40,6 +40,8 @@ In this phase, i created visuals of the data to make trends and insights easily 
 
 ![Dashboard](https://github.com/user-attachments/assets/1fd5a178-c672-4964-9584-5d1a981fa45a)
 
+[View full Dashboard here](https://1drv.ms/x/c/3e32c9b80a7ac08e/ES4XXXuKUkFBiDIvvdBAns4BevcQk0ZxD7-ClMZATX7g7g?e=M1urIZ)
+
 By leveraging visualizations, i was able to transform raw data into actionable insights.
 
 ### Recommendations
