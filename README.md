@@ -38,9 +38,9 @@ In this phase, i focused on summarizing the cleaned and processed data to identi
 ---
 In this phase, i created visuals of the data to make trends and insights easily interpretable. These visuals were designed to provide a clear view of sales and orders performance, product contributions and region trends.
 
-![Dashboard](https://github.com/user-attachments/assets/1fd5a178-c672-4964-9584-5d1a981fa45a)
+![Sales and Orders chart](https://github.com/user-attachments/assets/e9421bbb-0deb-4a21-8a58-b24142884b75)
 
-[View full Dashboard here](https://1drv.ms/x/c/3e32c9b80a7ac08e/ES4XXXuKUkFBiDIvvdBAns4BevcQk0ZxD7-ClMZATX7g7g?e=M1urIZ)
+[View Dashboard Here](https://1drv.ms/x/c/3e32c9b80a7ac08e/ES4XXXuKUkFBiDIvvdBAns4BevcQk0ZxD7-ClMZATX7g7g?e=M1urIZ)
 
 By leveraging visualizations, i was able to transform raw data into actionable insights.
 
