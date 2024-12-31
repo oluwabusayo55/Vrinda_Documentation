@@ -90,7 +90,7 @@ By leveraging visualizations, i was able to transform raw data into actionable i
 ### Conclusion
 ---
 The objective of this project was to analyse the sales data of Vrinda Store in 2022 to better understand their customers, identify trends, top-performing products and regional performance. Based on the findings several conclusions were drawn;
-- Sales peaked in march whuch suggests that seasonal or promotional factors could have contributed to the surge. Future plans should focus on capitalizing on this period with targeted market efforts.
+- Sales peaked in march which suggests that seasonal or promotional factors could have contributed to the surge. Future plans should focus on capitalizing on this period with targeted market efforts.
 - There is a signifiacent contribution from Women which highlight a potential target audience for future product marketing campaigns.
 - Amazon proved to be the most profitable sales channel, suggesting that more resources should be allocated to this platform to maximise sales.
 - The Set product category is the most popular among customers, indicating that building products could be a sales startegy for Vrinda Store.
